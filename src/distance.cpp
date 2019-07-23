@@ -4,7 +4,6 @@
 #include <limits.h>
 #include <string.h>
 #include <stdint.h>
-#include <cstdlib>
 using namespace std;
 //Forward declaration required due to CFFI's requirement to have unmangled symbols
 extern "C" {
